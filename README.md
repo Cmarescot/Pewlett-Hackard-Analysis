@@ -26,7 +26,7 @@ Our analysis found that:
 - 90398 roles will need to be filled as the "silver tsunami" begins to make an impact 
 - With only 1549 elegible retirees able to partcipate in the mentorship program, there are not enough mentors for the next generation of Pewlett Hackward employees
 ### More Queries
-- In addition to the queries we performed for the challenge we can also peformed the following querie:
+- In addition to the queries we performed for the challenge we can also peformed the following query:
       
       SELECT COUNT(me.title), 
       me.title
