@@ -17,7 +17,7 @@ Our analysis found that:
 
 ![title_count](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/title_count.png)
 
-- There are 1549 eligible to partcipate in the mentorship program  
+- There are 1549 employees eligible to partcipate in the mentorship program  
 
 ![eligibility](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/eligibility.png)
 
