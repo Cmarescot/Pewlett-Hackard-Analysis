@@ -14,9 +14,9 @@ Our analysis found that:
 - Senior Engineers had the most amount of retiring employees of 29414
 - Senior Staff had the second most amount of retiring employees of 28254
 - 2 Managers are retiring 
-![title_count]()
+![title_count](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/title_count.png)
 - There are 1549 eligible to partcipate in the mentorship program  
-![eligibility]()
+![eligibility](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/eligibility.png)
 
 ## Summary 
 ### Key Takeaways
@@ -34,7 +34,7 @@ Our analysis found that:
   In order to find out how many possible mentors are eligible for each title. This can help the company allocate it's resources and figure out which departments are going to need more assistance with the next generation of Pewlett Hackward employees .
   
   Our query above returns a table that looks like this:
-  ![mentors_per_title]()
+  ![mentors_per_title](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/mentors_per_title.png)
   
   ### Employees Retiring by Departments 
   Lasty, we can perform the same query we performed on titles, but this time with each departments. We can do this by first: 
@@ -62,6 +62,6 @@ Our analysis found that:
               GROUP BY um.dept_name 
               ORDER BY count DESC;
     Our results look like the following 
-    ![count_by_departments]()
+    ![count_by_departments](https://github.com/Cmarescot/Pewlett-Hackard-Analysis/blob/main/tables/count_by_departments.png)
     
 With these results we can get a better idea of which departments will be needed the most help when it comes to training in the future. 
